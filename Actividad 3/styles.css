@@ -1,0 +1,36 @@
+header img{
+width: 200px;
+}
+body {
+margin: 0;
+}
+
+.menu{
+width: 100vw;
+background-color:darkgray ;
+display: flex;
+gap: 20px;
+justify-content: flex-end;
+
+}
+
+
+.container{
+padding: 20px 250px 20px 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: justify;
+}
+.container img{
+width: 100px;
+}
+
+
+footer{
+background-color: darkgrey;
+display: flex;
+justify-content: center;
+}
+
+ 
